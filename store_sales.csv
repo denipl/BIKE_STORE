@@ -1,0 +1,1001 @@
+store_name,product_name,order_date,total_quantity,total_price
+"Baldwin Bikes","Ritchey Timberwolf Frameset - 2016",2017-03-22,1,750
+"Santa Cruz Bikes","Ritchey Timberwolf Frameset - 2016",2017-04-13,1,750
+"Baldwin Bikes","Ritchey Timberwolf Frameset - 2016",2017-05-08,2,1500
+"Santa Cruz Bikes","Ritchey Timberwolf Frameset - 2016",2017-05-27,2,1500
+"Baldwin Bikes","Ritchey Timberwolf Frameset - 2016",2017-05-28,1,750
+"Baldwin Bikes","Ritchey Timberwolf Frameset - 2016",2017-07-16,1,750
+"Santa Cruz Bikes","Ritchey Timberwolf Frameset - 2016",2017-08-25,2,1500
+"Rowlett Bikes","Ritchey Timberwolf Frameset - 2016",2017-09-13,2,1500
+"Santa Cruz Bikes","Ritchey Timberwolf Frameset - 2016",2017-12-14,2,1500
+"Baldwin Bikes","Ritchey Timberwolf Frameset - 2016",2018-01-14,2,1500
+"Santa Cruz Bikes","Ritchey Timberwolf Frameset - 2016",2018-02-02,2,1500
+"Santa Cruz Bikes","Ritchey Timberwolf Frameset - 2016",2018-04-06,1,750
+"Baldwin Bikes","Trek Remedy 29 Carbon Frameset - 2016",2016-01-05,1,1800
+"Santa Cruz Bikes","Electra Girl's Hawaii 1 (20-inch) - 2015/2016",2016-01-12,1,300
+"Baldwin Bikes","Electra Girl's Hawaii 1 (20-inch) - 2015/2016",2016-01-25,1,300
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2016",2016-03-06,1,470
+"Rowlett Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-03-19,2,540
+"Santa Cruz Bikes","Electra Townie Original 7D EQ - Women's - 2016",2016-03-20,1,600
+"Santa Cruz Bikes","Trek Conduit+ - 2016",2016-03-20,1,3000
+"Santa Cruz Bikes","Trek Slash 8 27.5 - 2016",2016-03-29,1,4000
+"Baldwin Bikes","Heller Shagamaw Frame - 2016",2016-04-10,1,1321
+"Baldwin Bikes","Surly Straggler 650b - 2016",2016-04-15,2,3362
+"Baldwin Bikes","Heller Shagamaw Frame - 2016",2016-05-05,1,1321
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2016-05-08,2,1200
+"Baldwin Bikes","Surly Straggler 650b - 2016",2016-06-04,1,1681
+"Baldwin Bikes","Pure Cycles Western 3-Speed - Women's - 2015/2016",2016-07-06,2,898
+"Rowlett Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-08-01,2,540
+"Rowlett Bikes","Pure Cycles Western 3-Speed - Women's - 2015/2016",2016-08-01,2,898
+"Baldwin Bikes","Trek Fuel EX 8 29 - 2016",2016-08-17,2,5800
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-08-17,1,270
+"Santa Cruz Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-08-26,2,540
+"Santa Cruz Bikes","Trek Fuel EX 8 29 - 2016",2016-10-04,1,2900
+"Rowlett Bikes","Surly Wednesday Frameset - 2016",2016-11-12,1,1000
+"Baldwin Bikes","Electra Moto 1 - 2016",2016-12-21,2,1060
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2016",2017-01-08,1,470
+"Santa Cruz Bikes","Trek Domane S 6 - 2017",2017-01-19,2,5400
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2017-03-07,2,540
+"Santa Cruz Bikes","Electra Cruiser 1 (24-Inch) - 2016",2017-03-11,2,540
+"Baldwin Bikes","Surly Troll Frameset - 2017",2017-04-07,1,833
+"Santa Cruz Bikes","Electra Amsterdam Original 3i Ladies' - 2017",2017-04-13,1,660
+"Baldwin Bikes","Electra Girl's Hawaii 1 (20-inch) - 2015/2016",2017-04-16,2,600
+"Baldwin Bikes","Haro Flightline Two 26 Plus - 2017",2017-05-02,1,550
+"Baldwin Bikes","Trek Stache 5 - 2017",2017-05-30,2,3000
+"Santa Cruz Bikes","Electra Townie Original 7D EQ - Women's - 2016",2017-07-29,1,600
+"Santa Cruz Bikes","Trek Remedy 29 Carbon Frameset - 2016",2017-08-04,2,3600
+"Rowlett Bikes","Surly Karate Monkey 27.5+ Frameset - 2017",2017-08-07,1,2500
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2017-08-10,4,2400
+"Baldwin Bikes","Trek Precaliber 12 Girls - 2017",2017-09-24,1,190
+"Baldwin Bikes","Surly Troll Frameset - 2017",2017-09-25,1,833
+"Baldwin Bikes","Surly Ogre Frameset - 2017",2017-10-15,2,1500
+"Baldwin Bikes","Sun Bicycles Brickell Tandem 7 - 2017",2017-10-26,1,750
+"Baldwin Bikes","Trek Domane S 6 - 2017",2017-11-04,2,5400
+"Baldwin Bikes","Electra Townie Original 7D - 2015/2016",2017-11-18,2,1000
+"Santa Cruz Bikes","Surly Wednesday Frameset - 2016",2017-12-08,1,1000
+"Santa Cruz Bikes","Electra Townie Original 7D EQ - 2016",2017-12-14,1,600
+"Baldwin Bikes","Trek Fuel EX 5 27.5 Plus - 2017",2017-12-20,1,2300
+"Santa Cruz Bikes","Electra Girl's Hawaii 1 16" - 2017"",2017-12-26,2,600
+"Baldwin Bikes","Trek Madone 9.2 - 2017",2018-01-25,1,5000
+"Baldwin Bikes","Trek Powerfly 8 FS Plus - 2017",2018-03-14,2,10000
+"Santa Cruz Bikes","Surly Steamroller - 2017",2018-04-03,1,876
+"Baldwin Bikes","Electra Moto 1 - 2016",2018-04-06,1,530
+"Baldwin Bikes","Pure Cycles William 3-Speed - 2016",2018-04-06,2,898
+"Baldwin Bikes","Haro Shredder 20 Girls - 2017",2017-02-15,3,630
+"Baldwin Bikes","Sun Bicycles Cruz 3 - 2017",2017-05-02,1,450
+"Santa Cruz Bikes","Electra Townie 3i EQ (20-inch) - Boys' - 2017",2017-09-03,1,490
+"Santa Cruz Bikes","Haro Shredder Pro 20 - 2017",2017-10-23,2,500
+"Baldwin Bikes","Trek Precaliber 24 (21-Speed) - Girls - 2017",2017-12-17,2,700
+"Santa Cruz Bikes","Electra Moto 3i (20-inch) - Boy's - 2017",2017-12-22,2,700
+"Santa Cruz Bikes","Electra Sugar Skulls 1 (20-inch) - Girl's - 2017",2017-12-28,2,600
+"Baldwin Bikes","Trek Emonda SLR 6 - 2018",2018-03-16,2,9000
+"Baldwin Bikes","Trek Marlin 5 - 2018",2018-03-20,1,490
+"Santa Cruz Bikes","Trek Farley Carbon Frameset - 2018",2018-03-30,1,1000
+"Baldwin Bikes","Electra Cruiser 7D Tall - 2016/2018",2018-01-02,1,320
+"Baldwin Bikes","Surly Straggler - 2018",2018-02-16,2,3098
+"Rowlett Bikes","Trek Domane AL 2 - 2018",2018-03-15,2,1500
+"Baldwin Bikes","Electra Cruiser 7D Ladies' - 2016/2018",2018-04-20,1,320
+"Santa Cruz Bikes","Strider Classic 12 Balance Bike - 2018",2018-04-23,2,180
+"Baldwin Bikes","Electra Cyclosaurus 1 (16-inch) - Boy's - 2018",2018-01-16,2,560
+"Baldwin Bikes","Trek Precaliber 16 Girl's - 2018",2018-03-16,2,420
+"Baldwin Bikes","Electra Townie Balloon 3i EQ Ladies' - 2018",2018-04-23,2,1600
+"Baldwin Bikes","Surly Wednesday Frameset - 2016",2016-01-18,2,2000
+"Baldwin Bikes","Pure Cycles William 3-Speed - 2016",2016-01-27,3,1347
+"Baldwin Bikes","Ritchey Timberwolf Frameset - 2016",2016-02-05,1,750
+"Rowlett Bikes","Electra Townie Original 7D - 2015/2016",2016-02-29,2,1000
+"Baldwin Bikes","Heller Shagamaw Frame - 2016",2016-03-14,1,1321
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-03-20,2,540
+"Baldwin Bikes","Trek Remedy 29 Carbon Frameset - 2016",2016-03-26,2,3600
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2016-03-28,2,1200
+"Santa Cruz Bikes","Ritchey Timberwolf Frameset - 2016",2016-04-08,1,750
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-04-12,2,540
+"Santa Cruz Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-05-17,1,270
+"Baldwin Bikes","Electra Townie Original 7D - 2015/2016",2016-05-17,1,500
+"Baldwin Bikes","Trek Fuel EX 8 29 - 2016",2016-06-06,2,5800
+"Rowlett Bikes","Electra Townie Original 7D EQ - 2016",2016-06-22,2,1200
+"Baldwin Bikes","Ritchey Timberwolf Frameset - 2016",2016-07-25,2,1500
+"Baldwin Bikes","Trek Fuel EX 8 29 - 2016",2016-07-26,2,5800
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2016-08-07,1,600
+"Santa Cruz Bikes","Surly Straggler - 2016",2016-08-17,1,1549
+"Santa Cruz Bikes","Trek Slash 8 27.5 - 2016",2016-08-17,1,4000
+"Rowlett Bikes","Electra Townie Original 7D EQ - 2016",2016-08-17,2,1200
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2016-08-30,1,600
+"Baldwin Bikes","Trek Conduit+ - 2016",2016-09-01,2,6000
+"Baldwin Bikes","Pure Cycles William 3-Speed - 2016",2016-09-17,2,898
+"Rowlett Bikes","Trek Remedy 29 Carbon Frameset - 2016",2016-09-20,1,1800
+"Baldwin Bikes","Heller Shagamaw Frame - 2016",2016-09-21,1,1321
+"Baldwin Bikes","Electra Townie Original 7D EQ - Women's - 2016",2016-09-22,2,1200
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-09-27,2,1100
+"Baldwin Bikes","Pure Cycles Vine 8-Speed - 2016",2016-10-01,2,858
+"Baldwin Bikes","Electra Girl's Hawaii 1 (20-inch) - 2015/2016",2016-10-09,1,300
+"Baldwin Bikes","Electra Girl's Hawaii 1 (20-inch) - 2015/2016",2016-10-19,1,300
+"Baldwin Bikes","Electra Girl's Hawaii 1 (20-inch) - 2015/2016",2016-11-02,1,300
+"Santa Cruz Bikes","Heller Shagamaw Frame - 2016",2016-11-23,1,1321
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-11-24,2,540
+"Baldwin Bikes","Electra Moto 1 - 2016",2016-12-04,4,2120
+"Baldwin Bikes","Pure Cycles Western 3-Speed - Women's - 2015/2016",2016-12-06,2,898
+"Santa Cruz Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-12-09,1,270
+"Baldwin Bikes","Trek Conduit+ - 2016",2016-12-09,2,6000
+"Santa Cruz Bikes","Electra Moto 1 - 2016",2017-01-07,1,530
+"Santa Cruz Bikes","Trek Boone 7 - 2017",2017-01-07,1,3500
+"Baldwin Bikes","Haro SR 1.2 - 2017",2017-02-05,3,2610
+"Baldwin Bikes","Sun Bicycles Boardwalk (24-inch Wheels) - 2017",2017-02-21,1,403
+"Rowlett Bikes","Electra Cruiser 1 (24-Inch) - 2016",2017-02-28,2,540
+"Baldwin Bikes","Sun Bicycles Biscayne Tandem CB - 2017",2017-03-07,1,648
+"Santa Cruz Bikes","Trek Domane S 6 - 2017",2017-03-09,1,2700
+"Rowlett Bikes","Surly Ice Cream Truck Frameset - 2016",2017-03-23,2,940
+"Santa Cruz Bikes","Trek Precaliber 16 Girls - 2017",2017-03-26,1,210
+"Baldwin Bikes","Trek Farley Alloy Frameset - 2017",2017-03-29,1,470
+"Baldwin Bikes","Trek Precaliber 12 Girls - 2017",2017-04-18,2,380
+"Baldwin Bikes","Surly Big Dummy Frameset - 2017",2017-05-04,2,2000
+"Santa Cruz Bikes","Trek Silque SLR 8 Women's - 2017",2017-05-23,2,13000
+"Baldwin Bikes","Electra Girl's Hawaii 1 16" - 2017"",2017-05-30,1,300
+"Baldwin Bikes","Trek Domane SL 6 - 2017",2017-06-07,2,7000
+"Santa Cruz Bikes","Electra Cruiser Lux Fat Tire 1 Ladies - 2017",2017-06-12,2,1200
+"Santa Cruz Bikes","Sun Bicycles Cruz 7 - 2017",2017-06-14,2,834
+"Baldwin Bikes","Trek Fuel EX 8 29 - 2016",2017-06-17,2,5800
+"Baldwin Bikes","Electra Glam Punk 3i Ladies' - 2017",2017-06-21,2,1600
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2017-07-04,2,540
+"Santa Cruz Bikes","Trek Madone 9.2 - 2017",2017-07-09,1,5000
+"Baldwin Bikes","Trek Girl's Kickster - 2017",2017-07-11,2,300
+"Baldwin Bikes","Sun Bicycles Cruz 3 - 2017",2017-07-15,1,450
+"Baldwin Bikes","Haro Flightline One ST - 2017",2017-07-22,1,380
+"Baldwin Bikes","Trek Domane SL 6 - 2017",2017-07-23,2,7000
+"Santa Cruz Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2017-08-09,2,540
+"Baldwin Bikes","Sun Bicycles Biscayne Tandem 7 - 2017",2017-08-19,2,1240
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2017-09-28,2,540
+"Baldwin Bikes","Pure Cycles Vine 8-Speed - 2016",2017-09-30,1,429
+"Santa Cruz Bikes","Electra Cruiser Lux 1 - 2017",2017-10-01,1,440
+"Santa Cruz Bikes","Haro SR 1.3 - 2017",2017-10-26,2,2820
+"Santa Cruz Bikes","Electra Townie Original 7D EQ - 2016",2017-11-16,1,600
+"Baldwin Bikes","Trek Precaliber 12 Boys - 2017",2017-11-27,2,380
+"Baldwin Bikes","Sun Bicycles Biscayne Tandem CB - 2017",2017-11-30,2,1296
+"Santa Cruz Bikes","Trek Remedy 29 Carbon Frameset - 2016",2017-12-16,1,1800
+"Baldwin Bikes","Surly Karate Monkey 27.5+ Frameset - 2017",2017-12-31,2,5000
+"Baldwin Bikes","Sun Bicycles Lil Bolt Type-R - 2017",2018-01-13,2,694
+"Baldwin Bikes","Trek Precaliber 16 Boys - 2017",2018-01-28,2,420
+"Baldwin Bikes","Electra Townie Original 7D EQ - Women's - 2016",2018-03-07,2,1200
+"Baldwin Bikes","Haro Shift R3 - 2017",2018-04-09,1,1470
+"Santa Cruz Bikes","Electra Savannah 3i (20-inch) - Girl's - 2017",2017-01-10,2,700
+"Baldwin Bikes","Electra Savannah 3i (20-inch) - Girl's - 2017",2017-01-14,2,700
+"Baldwin Bikes","Electra Sugar Skulls 1 (20-inch) - Girl's - 2017",2017-01-29,1,300
+"Baldwin Bikes","Electra Sugar Skulls 1 (20-inch) - Girl's - 2017",2017-03-15,1,300
+"Santa Cruz Bikes","Sun Bicycles Streamway 7 - 2017",2017-04-03,2,1068
+"Baldwin Bikes","Sun Bicycles Drifter 7 - 2017",2017-06-13,2,942
+"Santa Cruz Bikes","Electra Townie Original 7D - 2017",2017-10-30,2,980
+"Santa Cruz Bikes","Trek Domane ALR 3 - 2018",2018-01-04,1,1100
+"Baldwin Bikes","Surly ECR - 2018",2018-03-30,2,3798
+"Santa Cruz Bikes","Haro Shredder 20 - 2017",2018-04-21,1,210
+"Santa Cruz Bikes","Trek Domane AL 3 - 2018",2018-04-21,1,920
+"Baldwin Bikes","Electra Cruiser Lux 7D Ladies' - 2018",2018-01-04,1,480
+"Rowlett Bikes","Strider Classic 12 Balance Bike - 2018",2018-01-14,2,180
+"Baldwin Bikes","Electra Townie Commute Go! - 2018",2018-02-09,1,3000
+"Santa Cruz Bikes","Electra Townie Commute Go! - 2018",2018-04-03,2,6000
+"Rowlett Bikes","Trek XM700+ Lowstep - 2018",2018-04-20,1,3500
+"Santa Cruz Bikes","Electra Girl's Hawaii 1 (20-inch) - 2015/2016",2016-01-16,2,600
+"Rowlett Bikes","Trek Conduit+ - 2016",2016-01-20,2,6000
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-02-04,2,540
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-02-08,1,550
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-02-10,2,540
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2016-02-12,2,1200
+"Santa Cruz Bikes","Trek Fuel EX 8 29 - 2016",2016-03-12,1,2900
+"Santa Cruz Bikes","Electra Townie Original 7D EQ - 2016",2016-03-16,1,600
+"Baldwin Bikes","Heller Shagamaw Frame - 2016",2016-04-13,1,1321
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-04-28,4,1080
+"Baldwin Bikes","Trek Slash 8 27.5 - 2016",2016-05-05,2,8000
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-05-07,1,270
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-05-17,1,270
+"Baldwin Bikes","Trek Conduit+ - 2016",2016-06-10,2,6000
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2016",2016-06-30,1,470
+"Rowlett Bikes","Trek Remedy 29 Carbon Frameset - 2016",2016-08-23,1,1800
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-09-11,4,1080
+"Baldwin Bikes","Trek Slash 8 27.5 - 2016",2016-09-19,1,4000
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-09-21,2,540
+"Santa Cruz Bikes","Surly Ice Cream Truck Frameset - 2016",2016-10-02,1,470
+"Rowlett Bikes","Trek Conduit+ - 2016",2016-10-04,2,6000
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-10-05,1,270
+"Santa Cruz Bikes","Surly Ice Cream Truck Frameset - 2016",2016-10-09,1,470
+"Baldwin Bikes","Electra Townie Original 7D - 2015/2016",2016-10-15,1,500
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-10-23,3,810
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2016-11-04,2,1200
+"Baldwin Bikes","Surly Straggler - 2016",2016-11-15,2,3098
+"Baldwin Bikes","Electra Girl's Hawaii 1 (20-inch) - 2015/2016",2016-11-26,2,600
+"Rowlett Bikes","Sun Bicycles Lil Kitt'n - 2017",2017-02-07,1,110
+"Baldwin Bikes","Haro SR 1.2 - 2017",2017-02-08,2,1740
+"Santa Cruz Bikes","Haro Flightline Two 26 Plus - 2017",2017-02-28,2,1100
+"Santa Cruz Bikes","Trek Girl's Kickster - 2017",2017-03-03,1,150
+"Rowlett Bikes","Electra Townie Original 7D EQ - 2016",2017-03-03,2,1200
+"Santa Cruz Bikes","Haro SR 1.2 - 2017",2017-03-05,2,1740
+"Baldwin Bikes","Electra Girl's Hawaii 1 16" - 2017"",2017-03-09,1,300
+"Santa Cruz Bikes","Trek Madone 9.2 - 2017",2017-03-27,2,10000
+"Baldwin Bikes","Trek Silque SLR 7 Women's - 2017",2017-03-29,2,12000
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2017-04-12,1,270
+"Baldwin Bikes","Trek Remedy 9.8 - 2017",2017-04-17,1,5300
+"Rowlett Bikes","Haro Downtown 16 - 2017",2017-04-27,1,330
+"Baldwin Bikes","Haro SR 1.3 - 2017",2017-05-11,2,2820
+"Baldwin Bikes","Trek Boone 7 - 2017",2017-05-23,2,7000
+"Baldwin Bikes","Electra Townie Original 7D - 2017",2017-05-28,1,490
+"Baldwin Bikes","Trek Slash 8 27.5 - 2016",2017-05-30,1,4000
+"Baldwin Bikes","Haro SR 1.1 - 2017",2017-05-30,1,540
+"Santa Cruz Bikes","Trek X-Caliber 8 - 2017",2017-06-14,2,2000
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2017-06-27,1,550
+"Rowlett Bikes","Trek Domane SL 6 - 2017",2017-08-08,1,3500
+"Baldwin Bikes","Sun Bicycles Lil Bolt Type-R - 2017",2017-08-20,2,694
+"Baldwin Bikes","Haro Shift R3 - 2017",2017-09-02,2,2940
+"Baldwin Bikes","Trek Powerfly 8 FS Plus - 2017",2017-09-13,2,10000
+"Baldwin Bikes","Surly Straggler - 2016",2017-09-19,1,1549
+"Baldwin Bikes","Sun Bicycles Boardwalk (24-inch Wheels) - 2017",2017-10-15,1,403
+"Baldwin Bikes","Pure Cycles William 3-Speed - 2016",2017-10-28,1,449
+"Baldwin Bikes","Haro SR 1.2 - 2017",2017-11-12,1,870
+"Baldwin Bikes","Pure Cycles Vine 8-Speed - 2016",2017-11-19,2,858
+"Baldwin Bikes","Trek X-Caliber 8 - 2017",2017-11-24,2,2000
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2016",2017-12-04,1,470
+"Baldwin Bikes","Sun Bicycles Brickell Tandem CB - 2017",2017-12-16,1,762
+"Baldwin Bikes","Trek Conduit+ - 2016",2017-12-17,1,3000
+"Baldwin Bikes","Trek Domane SLR 6 Disc - 2017",2018-01-12,2,11000
+"Santa Cruz Bikes","Sun Bicycles Lil Bolt Type-R - 2017",2018-02-07,2,694
+"Baldwin Bikes","Sun Bicycles Spider 3i - 2017",2018-03-20,2,1666
+"Baldwin Bikes","Sun Bicycles Cruz 7 - Women's - 2017",2017-01-25,2,834
+"Baldwin Bikes","Electra Townie 7D (20-inch) - Boys' - 2017",2017-02-11,2,680
+"Rowlett Bikes","Trek Precaliber 16 Girls - 2017",2017-03-08,1,210
+"Baldwin Bikes","Electra Moto 3i (20-inch) - Boy's - 2017",2017-04-11,2,700
+"Baldwin Bikes","Trek Precaliber 16 Boys - 2017",2017-08-19,2,420
+"Baldwin Bikes","Sun Bicycles Streamway 3 - 2017",2017-10-08,2,1104
+"Santa Cruz Bikes","Trek Precaliber 16 Boys - 2017",2017-12-08,1,210
+"Baldwin Bikes","Trek Domane ALR 5 Gravel - 2018",2018-02-12,2,3600
+"Baldwin Bikes","Haro Shredder 20 - 2017",2018-02-14,1,210
+"Santa Cruz Bikes","Electra Townie 3i EQ (20-inch) - Boys' - 2017",2018-04-12,1,490
+"Baldwin Bikes","Trek Domane ALR Disc Frameset - 2018",2018-04-14,2,6400
+"Santa Cruz Bikes","Trek Domane SL Frameset - 2018",2018-04-17,1,6500
+"Baldwin Bikes","Trek X-Caliber 8 - 2018",2018-04-20,2,2000
+"Baldwin Bikes","Electra Daydreamer 3i Ladies' - 2018",2018-01-12,2,1800
+"Santa Cruz Bikes","Electra Cruiser 1 Ladies' - 2018",2018-02-23,1,270
+"Rowlett Bikes","Electra Townie Commute 8D Ladies' - 2018",2018-03-15,2,1400
+"Baldwin Bikes","Electra Townie Commute Go! Ladies' - 2018",2018-03-18,2,6000
+"Santa Cruz Bikes","Electra Townie Balloon 3i EQ Ladies' - 2018",2018-04-06,2,1600
+"Santa Cruz Bikes","Trek Boone 7 Disc - 2018",2018-04-23,2,8000
+"Rowlett Bikes","Electra Townie Original 21D EQ - 2017/2018",2018-01-06,2,1360
+"Baldwin Bikes","Electra Heartchya 1 (20-inch) - Girl's - 2018",2018-01-29,2,640
+"Rowlett Bikes","Strider Strider 20 Sport - 2018",2018-02-26,1,290
+"Santa Cruz Bikes","Electra Townie Go! 8i - 2017/2018",2018-04-11,2,5200
+"Santa Cruz Bikes","Trek Precaliber 20 6-speed Boy's - 2018",2018-04-25,1,290
+"Baldwin Bikes","Trek Precaliber 20 Girl's - 2018",2018-04-30,4,920
+"Baldwin Bikes","Surly Wednesday Frameset - 2016",2016-02-07,1,1000
+"Rowlett Bikes","Electra Townie Original 21D - 2016",2016-02-09,2,1100
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2016-02-11,2,1200
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2016-02-13,2,1200
+"Baldwin Bikes","Electra Townie Original 7D - 2015/2016",2016-03-12,1,500
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2016",2016-03-14,2,940
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-03-23,2,1100
+"Santa Cruz Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-04-04,1,270
+"Baldwin Bikes","Surly Wednesday Frameset - 2016",2016-05-12,2,2000
+"Santa Cruz Bikes","Surly Straggler 650b - 2016",2016-05-20,2,3362
+"Baldwin Bikes","Trek Remedy 29 Carbon Frameset - 2016",2016-05-29,1,1800
+"Baldwin Bikes","Pure Cycles Vine 8-Speed - 2016",2016-05-30,3,1287
+"Rowlett Bikes","Surly Wednesday Frameset - 2016",2016-06-22,2,2000
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2016",2016-07-06,1,470
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-07-07,2,1100
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-07-18,1,270
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-08-01,2,540
+"Baldwin Bikes","Trek Conduit+ - 2016",2016-08-20,1,3000
+"Santa Cruz Bikes","Pure Cycles Vine 8-Speed - 2016",2016-09-01,2,858
+"Santa Cruz Bikes","Electra Townie Original 21D - 2016",2016-10-14,2,1100
+"Baldwin Bikes","Trek Remedy 29 Carbon Frameset - 2016",2016-10-15,1,1800
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2016",2016-10-22,1,470
+"Santa Cruz Bikes","Surly Straggler - 2016",2016-10-26,1,1549
+"Santa Cruz Bikes","Trek Fuel EX 8 29 - 2016",2016-11-27,2,5800
+"Santa Cruz Bikes","Electra Girl's Hawaii 1 (20-inch) - 2015/2016",2016-12-06,1,300
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2017",2017-01-06,1,1000
+"Rowlett Bikes","Electra Cruiser Lux 1 - 2017",2017-01-12,1,440
+"Rowlett Bikes","Electra Cruiser 1 (24-Inch) - 2016",2017-01-26,1,270
+"Baldwin Bikes","Electra Girl's Hawaii 1 (20-inch) - 2015/2016",2017-02-19,1,300
+"Baldwin Bikes","Surly Steamroller - 2017",2017-03-07,2,1752
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2017-04-15,2,540
+"Baldwin Bikes","Surly Karate Monkey 27.5+ Frameset - 2017",2017-05-08,2,5000
+"Baldwin Bikes","Sun Bicycles Revolutions 24 - Girl's - 2017",2017-05-23,1,251
+"Baldwin Bikes","Sun Bicycles Revolutions 24 - 2017",2017-05-26,2,502
+"Santa Cruz Bikes","Surly Wednesday - 2017",2017-05-30,1,1633
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2017-06-11,1,270
+"Baldwin Bikes","Trek Slash 8 27.5 - 2016",2017-06-14,1,4000
+"Rowlett Bikes","Sun Bicycles Lil Bolt Type-R - 2017",2017-06-22,2,694
+"Rowlett Bikes","Surly Troll Frameset - 2017",2017-06-26,2,1666
+"Santa Cruz Bikes","Electra Townie Original 7D EQ - 2016",2017-07-18,2,1200
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2017-07-30,1,550
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2017-08-11,1,600
+"Baldwin Bikes","Surly Steamroller - 2017",2017-08-19,2,1752
+"Baldwin Bikes","Trek Precaliber 12 Boys - 2017",2017-09-05,2,380
+"Baldwin Bikes","Sun Bicycles Lil Bolt Type-R - 2017",2017-10-09,1,347
+"Baldwin Bikes","Electra Amsterdam Fashion 7i Ladies' - 2017",2017-10-31,2,2200
+"Santa Cruz Bikes","Trek Domane S 5 Disc - 2017",2017-11-04,2,5200
+"Baldwin Bikes","Haro Flightline Two 26 Plus - 2017",2017-11-05,2,1100
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2017-12-16,2,1100
+"Santa Cruz Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2017-12-25,1,270
+"Rowlett Bikes","Electra Townie Original 21D - 2016",2018-04-15,2,1100
+"Santa Cruz Bikes","Electra Townie Original 7D - 2017",2017-01-19,2,980
+"Baldwin Bikes","Electra Straight 8 3i (20-inch) - Boy's - 2017",2017-01-21,2,980
+"Rowlett Bikes","Sun Bicycles Cruz 3 - 2017",2017-02-06,2,900
+"Santa Cruz Bikes","Trek Precaliber 24 (21-Speed) - Girls - 2017",2017-03-26,2,700
+"Rowlett Bikes","Electra Sugar Skulls 1 (20-inch) - Girl's - 2017",2017-04-27,1,300
+"Santa Cruz Bikes","Electra Townie 7D (20-inch) - Boys' - 2017",2017-05-01,1,340
+"Santa Cruz Bikes","Haro Shredder 20 - 2017",2017-05-23,2,420
+"Santa Cruz Bikes","Electra Townie 7D (20-inch) - Boys' - 2017",2017-05-27,1,340
+"Rowlett Bikes","Electra Savannah 3i (20-inch) - Girl's - 2017",2017-06-02,2,700
+"Santa Cruz Bikes","Sun Bicycles Cruz 7 - Women's - 2017",2017-09-23,2,834
+"Baldwin Bikes","Haro Shredder 20 Girls - 2017",2017-10-27,1,210
+"Baldwin Bikes","Electra Townie 7D (20-inch) - Boys' - 2017",2017-11-24,1,340
+"Baldwin Bikes","Surly ECR Frameset - 2018",2018-03-21,1,750
+"Baldwin Bikes","Trek Fuel EX 8 29 - 2018",2018-03-26,1,3200
+"Santa Cruz Bikes","Electra Moto 3i (20-inch) - Boy's - 2017",2018-04-03,2,700
+"Santa Cruz Bikes","Surly Big Fat Dummy Frameset - 2018",2018-04-23,2,940
+"Baldwin Bikes","Electra Relic 3i - 2018",2018-04-15,2,1700
+"Baldwin Bikes","Trek Boone 5 Disc - 2018",2018-04-15,1,3300
+"Santa Cruz Bikes","Electra Super Moto 8i - 2018",2018-04-26,2,1800
+"Baldwin Bikes","Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018",2018-03-07,3,960
+"Baldwin Bikes","Electra Treasure 1 20" - 2018"",2018-04-02,2,640
+"Santa Cruz Bikes","Surly Straggler - 2016",2016-01-01,2,3098
+"Baldwin Bikes","Surly Straggler - 2016",2016-01-15,1,1549
+"Baldwin Bikes","Trek Fuel EX 8 29 - 2016",2016-01-30,1,2900
+"Baldwin Bikes","Electra Girl's Hawaii 1 (20-inch) - 2015/2016",2016-02-03,2,600
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-02-16,2,540
+"Baldwin Bikes","Pure Cycles Western 3-Speed - Women's - 2015/2016",2016-05-01,2,898
+"Rowlett Bikes","Electra Townie Original 7D - 2015/2016",2016-05-04,1,500
+"Baldwin Bikes","Pure Cycles William 3-Speed - 2016",2016-05-08,1,449
+"Baldwin Bikes","Trek Slash 8 27.5 - 2016",2016-05-08,1,4000
+"Baldwin Bikes","Electra Moto 1 - 2016",2016-05-25,1,530
+"Baldwin Bikes","Pure Cycles Western 3-Speed - Women's - 2015/2016",2016-06-17,1,449
+"Baldwin Bikes","Surly Straggler - 2016",2016-07-07,2,3098
+"Rowlett Bikes","Electra Girl's Hawaii 1 (20-inch) - 2015/2016",2016-08-01,1,300
+"Rowlett Bikes","Heller Shagamaw Frame - 2016",2016-08-02,2,2642
+"Santa Cruz Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-08-23,2,540
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-08-31,2,540
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-10-19,2,540
+"Santa Cruz Bikes","Heller Shagamaw Frame - 2016",2016-10-22,2,2642
+"Santa Cruz Bikes","Surly Straggler 650b - 2016",2016-10-25,1,1681
+"Santa Cruz Bikes","Electra Townie Original 7D EQ - 2016",2016-10-31,1,600
+"Baldwin Bikes","Ritchey Timberwolf Frameset - 2016",2016-11-24,1,750
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2016-12-09,2,1200
+"Santa Cruz Bikes","Electra Townie Original 21D - 2016",2016-12-12,1,550
+"Baldwin Bikes","Trek Fuel EX 8 29 - 2016",2016-12-29,2,5800
+"Baldwin Bikes","Surly Steamroller - 2017",2017-01-20,2,1752
+"Santa Cruz Bikes","Electra Townie Original 7D - 2015/2016",2017-02-08,2,1000
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2016",2017-03-29,2,940
+"Baldwin Bikes","Electra Amsterdam Original 3i Ladies' - 2017",2017-03-30,2,1320
+"Baldwin Bikes","Surly Troll Frameset - 2017",2017-05-15,1,833
+"Baldwin Bikes","Electra Cruiser Lux 1 - 2017",2017-06-07,1,440
+"Santa Cruz Bikes","Surly Straggler 650b - 2016",2017-06-12,2,3362
+"Santa Cruz Bikes","Electra Amsterdam Original 3i - 2015/2017",2017-06-14,2,1320
+"Baldwin Bikes","Trek Precaliber 16 Girls - 2017",2017-06-20,3,630
+"Baldwin Bikes","Sun Bicycles Biscayne Tandem 7 - 2017",2017-07-13,1,620
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2016",2017-07-19,2,940
+"Baldwin Bikes","Haro Flightline One ST - 2017",2017-09-08,2,760
+"Baldwin Bikes","Sun Bicycles Spider 3i - 2017",2017-09-30,1,833
+"Baldwin Bikes","Trek Silque SLR 8 Women's - 2017",2017-10-04,2,13000
+"Rowlett Bikes","Surly Wednesday Frameset - 2017",2017-10-12,2,940
+"Baldwin Bikes","Pure Cycles William 3-Speed - 2016",2017-10-14,2,898
+"Baldwin Bikes","Electra Moto 1 - 2016",2017-10-27,2,1060
+"Baldwin Bikes","Electra Cruiser Lux 1 - 2017",2017-10-27,1,440
+"Rowlett Bikes","Trek Boone 7 - 2017",2017-12-07,2,7000
+"Rowlett Bikes","Electra Townie Original 21D - 2016",2018-01-06,1,550
+"Baldwin Bikes","Trek Fuel EX 9.8 27.5 Plus - 2017",2018-03-01,1,5300
+"Santa Cruz Bikes","Trek Madone 9.2 - 2017",2018-03-27,1,5000
+"Baldwin Bikes","Trek Conduit+ - 2016",2018-04-27,1,3000
+"Baldwin Bikes","Sun Bicycles Cruz 3 - Women's - 2017",2017-06-11,2,900
+"Baldwin Bikes","Sun Bicycles Streamway 3 - 2017",2017-06-13,1,552
+"Baldwin Bikes","Sun Bicycles Streamway 3 - 2017",2017-08-13,1,552
+"Baldwin Bikes","Electra Savannah 3i (20-inch) - Girl's - 2017",2017-09-07,2,700
+"Baldwin Bikes","Sun Bicycles Streamway 7 - 2017",2017-09-25,2,1068
+"Baldwin Bikes","Sun Bicycles Streamway 7 - 2017",2017-10-22,1,534
+"Baldwin Bikes","Trek Emonda SL 6 Disc - 2018",2018-03-03,2,6000
+"Baldwin Bikes","Surly ECR - 2018",2018-03-11,1,1899
+"Santa Cruz Bikes","Surly Pack Rat - 2018",2018-03-26,2,2698
+"Santa Cruz Bikes","Trek Emonda ALR 6 - 2018",2018-04-10,2,4600
+"Rowlett Bikes","Trek Dual Sport+ - 2018",2018-01-01,2,5600
+"Baldwin Bikes","Trek Powerfly 7 FS - 2018",2018-02-19,1,5000
+"Baldwin Bikes","Electra Daydreamer 3i Ladies' - 2018",2018-03-04,1,900
+"Baldwin Bikes","Trek Lift+ - 2018",2018-03-20,2,5600
+"Baldwin Bikes","Electra Townie Balloon 7i EQ - 2018",2018-03-30,2,1800
+"Santa Cruz Bikes","Electra Tiger Shark 3i - 2018",2018-04-06,1,900
+"Baldwin Bikes","Electra Townie Commute 8D Ladies' - 2018",2018-04-22,2,1400
+"Baldwin Bikes","Electra Moto 1 - 2016",2016-01-04,1,530
+"Rowlett Bikes","Surly Wednesday Frameset - 2016",2016-01-31,1,1000
+"Rowlett Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-03-06,1,270
+"Baldwin Bikes","Surly Wednesday Frameset - 2016",2016-04-16,1,1000
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-05-04,2,540
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-05-06,1,550
+"Baldwin Bikes","Pure Cycles William 3-Speed - 2016",2016-05-10,1,449
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-05-15,2,540
+"Baldwin Bikes","Ritchey Timberwolf Frameset - 2016",2016-05-17,2,1500
+"Baldwin Bikes","Surly Straggler - 2016",2016-05-29,2,3098
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2016",2016-06-13,2,940
+"Baldwin Bikes","Trek Fuel EX 8 29 - 2016",2016-06-25,1,2900
+"Baldwin Bikes","Trek Fuel EX 8 29 - 2016",2016-07-19,2,5800
+"Baldwin Bikes","Trek Slash 8 27.5 - 2016",2016-08-07,4,16000
+"Santa Cruz Bikes","Pure Cycles Vine 8-Speed - 2016",2016-08-29,1,429
+"Santa Cruz Bikes","Electra Townie Original 7D EQ - 2016",2016-09-02,2,1200
+"Santa Cruz Bikes","Pure Cycles Vine 8-Speed - 2016",2016-09-24,1,429
+"Baldwin Bikes","Pure Cycles Western 3-Speed - Women's - 2015/2016",2016-09-26,2,898
+"Baldwin Bikes","Heller Shagamaw Frame - 2016",2016-10-21,2,2642
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-10-28,2,1100
+"Santa Cruz Bikes","Electra Townie Original 7D EQ - 2016",2016-11-03,2,1200
+"Baldwin Bikes","Surly Straggler 650b - 2016",2016-12-11,2,3362
+"Baldwin Bikes","Trek Powerfly 8 FS Plus - 2017",2017-01-17,2,10000
+"Baldwin Bikes","Trek X-Caliber 8 - 2017",2017-01-18,2,2000
+"Baldwin Bikes","Haro SR 1.2 - 2017",2017-02-16,2,1740
+"Rowlett Bikes","Sun Bicycles Lil Bolt Type-R - 2017",2017-03-06,2,694
+"Baldwin Bikes","Trek Madone 9.2 - 2017",2017-03-12,2,10000
+"Baldwin Bikes","Trek Farley Alloy Frameset - 2017",2017-03-15,1,470
+"Baldwin Bikes","Electra Townie Original 7D EQ - Women's - 2016",2017-03-15,2,1200
+"Baldwin Bikes","Trek Silque SLR 8 Women's - 2017",2017-04-13,1,6500
+"Baldwin Bikes","Surly Straggler - 2016",2017-04-14,1,1549
+"Santa Cruz Bikes","Sun Bicycles Lil Kitt'n - 2017",2017-05-24,2,220
+"Santa Cruz Bikes","Electra Townie Original 7D EQ - 2016",2017-06-03,2,1200
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2017-06-26,2,1100
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2017",2017-07-22,1,1000
+"Baldwin Bikes","Haro Shift R3 - 2017",2017-07-27,1,1470
+"Rowlett Bikes","Trek Farley Alloy Frameset - 2017",2017-08-07,1,470
+"Baldwin Bikes","Haro SR 1.2 - 2017",2017-08-17,2,1740
+"Baldwin Bikes","Sun Bicycles ElectroLite - 2017",2017-08-19,4,6240
+"Rowlett Bikes","Electra Townie Original 7D - 2017",2017-08-22,3,1470
+"Baldwin Bikes","Sun Bicycles Brickell Tandem CB - 2017",2017-10-14,3,2286
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2017-11-04,1,600
+"Baldwin Bikes","Electra Amsterdam Original 3i Ladies' - 2017",2017-11-19,1,660
+"Baldwin Bikes","Haro SR 1.2 - 2017",2017-11-25,1,870
+"Baldwin Bikes","Trek Conduit+ - 2016",2017-12-01,4,12000
+"Baldwin Bikes","Trek Silque SLR 7 Women's - 2017",2017-12-03,2,12000
+"Baldwin Bikes","Heller Shagamaw Frame - 2016",2017-12-11,2,2642
+"Baldwin Bikes","Sun Bicycles Lil Bolt Type-R - 2017",2017-12-22,1,347
+"Rowlett Bikes","Trek Stache 5 - 2017",2018-02-08,2,3000
+"Baldwin Bikes","Surly Straggler 650b - 2016",2018-04-08,2,3362
+"Rowlett Bikes","Surly Ice Cream Truck Frameset - 2016",2018-04-15,2,940
+"Baldwin Bikes","Pure Cycles Western 3-Speed - Women's - 2015/2016",2018-04-20,1,449
+"Baldwin Bikes","Surly Troll Frameset - 2017",2018-04-29,1,833
+"Baldwin Bikes","Haro Shredder 20 Girls - 2017",2017-07-22,2,420
+"Baldwin Bikes","Sun Bicycles Streamway 3 - 2017",2017-10-26,1,552
+"Baldwin Bikes","Electra Townie 7D (20-inch) - Boys' - 2017",2017-11-04,1,340
+"Baldwin Bikes","Sun Bicycles Streamway - 2017",2017-12-14,2,964
+"Santa Cruz Bikes","Sun Bicycles Streamway 7 - 2017",2017-12-16,2,1068
+"Baldwin Bikes","Trek X-Caliber Frameset - 2018",2018-02-06,1,1500
+"Santa Cruz Bikes","Trek Stache 5 - 2018",2018-03-15,2,3200
+"Santa Cruz Bikes","Trek Ticket S Frame - 2018",2018-04-12,1,1470
+"Baldwin Bikes","Trek Domane SLR 9 Disc - 2018",2018-04-22,1,12000
+"Santa Cruz Bikes","Trek Domane ALR 5 Gravel - 2018",2018-04-26,2,3600
+"Baldwin Bikes","Trek Powerfly 5 - 2018",2018-01-26,1,3500
+"Baldwin Bikes","Electra Townie Balloon 3i EQ Ladies' - 2018",2018-03-18,2,1600
+"Baldwin Bikes","Electra Cruiser 7D Tall - 2016/2018",2018-08-23,2,640
+"Baldwin Bikes","Electra Water Lily 1 (16-inch) - Girl's - 2018",2018-01-06,1,280
+"Baldwin Bikes","Electra Townie Balloon 3i EQ Ladies' - 2018",2018-03-29,1,800
+"Baldwin Bikes","Electra Tiger Shark 1 (20-inch) - Boys' - 2018",2018-04-08,2,640
+"Rowlett Bikes","Electra Townie Commute 27D Ladies - 2018",2018-04-11,2,1800
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-01-08,1,270
+"Santa Cruz Bikes","Surly Ice Cream Truck Frameset - 2016",2016-01-09,1,470
+"Baldwin Bikes","Trek Slash 8 27.5 - 2016",2016-01-18,1,4000
+"Baldwin Bikes","Electra Moto 1 - 2016",2016-02-20,2,1060
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2016",2016-02-23,1,470
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2016-03-01,2,1200
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-03-18,2,1100
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-03-20,1,270
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-04-19,1,270
+"Baldwin Bikes","Surly Straggler - 2016",2016-05-07,1,1549
+"Rowlett Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-05-27,2,540
+"Baldwin Bikes","Surly Straggler 650b - 2016",2016-06-17,2,3362
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2016-06-21,2,1200
+"Baldwin Bikes","Electra Townie Original 7D EQ - Women's - 2016",2016-07-31,2,1200
+"Rowlett Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-08-11,2,540
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2016-08-14,2,1200
+"Baldwin Bikes","Trek Remedy 29 Carbon Frameset - 2016",2016-08-16,2,3600
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-08-26,1,270
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-09-08,2,540
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-09-23,2,540
+"Baldwin Bikes","Trek Conduit+ - 2016",2016-10-06,3,9000
+"Baldwin Bikes","Electra Girl's Hawaii 1 (20-inch) - 2015/2016",2016-10-06,4,1200
+"Baldwin Bikes","Pure Cycles Vine 8-Speed - 2016",2016-10-19,2,858
+"Baldwin Bikes","Pure Cycles Western 3-Speed - Women's - 2015/2016",2016-11-12,1,449
+"Baldwin Bikes","Pure Cycles Vine 8-Speed - 2016",2016-11-19,2,858
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-12-16,1,270
+"Baldwin Bikes","Trek Remedy 29 Carbon Frameset - 2016",2016-12-24,1,1800
+"Santa Cruz Bikes","Electra Girl's Hawaii 1 (20-inch) - 2015/2016",2017-02-09,2,600
+"Baldwin Bikes","Sun Bicycles Brickell Tandem 7 - 2017",2017-02-16,2,1500
+"Rowlett Bikes","Electra Amsterdam Original 3i Ladies' - 2017",2017-02-19,2,1320
+"Baldwin Bikes","Surly Troll Frameset - 2017",2017-03-05,2,1666
+"Baldwin Bikes","Heller Shagamaw Frame - 2016",2017-03-13,1,1321
+"Baldwin Bikes","Trek Domane SL Disc Frameset - 2017",2017-03-24,2,6400
+"Santa Cruz Bikes","Trek Boone Race Shop Limited - 2017",2017-03-27,1,3500
+"Baldwin Bikes","Trek Domane SL Disc Frameset - 2017",2017-04-01,1,3200
+"Rowlett Bikes","Trek Domane SL 6 - 2017",2017-04-27,2,7000
+"Baldwin Bikes","Surly Wednesday - 2017",2017-05-22,2,3266
+"Santa Cruz Bikes","Sun Bicycles Lil Bolt Type-R - 2017",2017-05-24,1,347
+"Baldwin Bikes","Sun Bicycles Spider 3i - 2017",2017-06-13,2,1666
+"Baldwin Bikes","Trek Precaliber 12 Boys - 2017",2017-06-21,2,380
+"Santa Cruz Bikes","Sun Bicycles Boardwalk (24-inch Wheels) - 2017",2017-07-09,2,806
+"Baldwin Bikes","Sun Bicycles Atlas X-Type - 2017",2017-07-16,1,417
+"Baldwin Bikes","Trek Fuel EX 9.8 29 - 2017",2017-07-23,2,10000
+"Baldwin Bikes","Electra Amsterdam Original 3i Ladies' - 2017",2017-08-17,1,660
+"Baldwin Bikes","Surly Wednesday - 2017",2017-09-10,1,1633
+"Baldwin Bikes","Electra Amsterdam Original 3i Ladies' - 2017",2017-10-04,1,660
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2017-10-17,2,1100
+"Baldwin Bikes","Surly Straggler - 2016",2017-10-28,2,3098
+"Santa Cruz Bikes","Surly Troll Frameset - 2017",2017-11-05,2,1666
+"Baldwin Bikes","Trek Domane S 6 - 2017",2017-11-06,1,2700
+"Baldwin Bikes","Haro Shift R3 - 2017",2017-11-24,2,2940
+"Santa Cruz Bikes","Electra Cruiser Lux Fat Tire 1 Ladies - 2017",2017-12-15,1,600
+"Santa Cruz Bikes","Surly Straggler 650b - 2016",2017-12-24,2,3362
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2018-01-15,2,540
+"Rowlett Bikes","Electra Amsterdam Original 3i Ladies' - 2017",2018-01-21,1,660
+"Baldwin Bikes","Pure Cycles Vine 8-Speed - 2016",2018-03-03,1,429
+"Baldwin Bikes","Trek Domane S 6 - 2017",2018-03-18,1,2700
+"Rowlett Bikes","Sun Bicycles Biscayne Tandem 7 - 2017",2018-07-01,1,620
+"Santa Cruz Bikes","Sun Bicycles Drifter 7 - 2017",2017-03-03,1,471
+"Baldwin Bikes","Haro Shredder 20 Girls - 2017",2017-03-07,2,420
+"Baldwin Bikes","Sun Bicycles Drifter 7 - Women's - 2017",2017-03-09,1,471
+"Santa Cruz Bikes","Sun Bicycles Drifter 7 - Women's - 2017",2017-05-05,1,471
+"Baldwin Bikes","Trek Precaliber 12 Girls - 2017",2017-06-17,1,190
+"Baldwin Bikes","Sun Bicycles Drifter 7 - 2017",2017-09-11,2,942
+"Baldwin Bikes","Electra Townie 3i EQ (20-inch) - Boys' - 2017",2017-10-31,1,490
+"Baldwin Bikes","Electra Townie 3i EQ (20-inch) - Boys' - 2017",2017-11-23,1,490
+"Baldwin Bikes","Haro Shredder 20 Girls - 2017",2017-12-04,1,210
+"Santa Cruz Bikes","Trek Precaliber 16 Girls - 2017",2017-12-14,1,210
+"Baldwin Bikes","Electra Moto 3i (20-inch) - Boy's - 2017",2018-04-13,1,350
+"Baldwin Bikes","Trek Domane SL 6 - 2018",2018-09-06,2,6400
+"Baldwin Bikes","Electra Cruiser Lux 7D - 2018",2018-02-16,1,480
+"Baldwin Bikes","Trek Crockett 7 Disc - 2018",2018-03-19,2,6000
+"Baldwin Bikes","Electra Townie Original 7D EQ Ladies' - 2017/2018",2018-04-16,2,1200
+"Santa Cruz Bikes","Electra Heartchya 1 (20-inch) - Girl's - 2018",2018-01-04,2,640
+"Baldwin Bikes","Electra Superbolt 3i 20" - 2018"",2018-01-05,1,370
+"Baldwin Bikes","Pure Cycles Vine 8-Speed - 2016",2016-02-05,2,858
+"Santa Cruz Bikes","Surly Straggler 650b - 2016",2016-02-27,1,1681
+"Baldwin Bikes","Trek Remedy 29 Carbon Frameset - 2016",2016-02-27,2,3600
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-03-02,1,270
+"Baldwin Bikes","Trek Conduit+ - 2016",2016-03-03,1,3000
+"Rowlett Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-03-04,2,540
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-04-04,1,270
+"Baldwin Bikes","Surly Straggler 650b - 2016",2016-04-08,1,1681
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-05-01,2,540
+"Rowlett Bikes","Surly Wednesday Frameset - 2016",2016-05-03,2,2000
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-05-10,1,270
+"Santa Cruz Bikes","Surly Ice Cream Truck Frameset - 2016",2016-05-17,1,470
+"Baldwin Bikes","Trek Conduit+ - 2016",2016-07-16,1,3000
+"Baldwin Bikes","Electra Girl's Hawaii 1 (20-inch) - 2015/2016",2016-07-19,2,600
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2016",2016-08-05,2,940
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-08-19,2,540
+"Rowlett Bikes","Trek Conduit+ - 2016",2016-08-22,1,3000
+"Baldwin Bikes","Surly Straggler 650b - 2016",2016-08-29,2,3362
+"Baldwin Bikes","Electra Townie Original 7D EQ - Women's - 2016",2016-09-06,2,1200
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-09-23,2,1100
+"Baldwin Bikes","Trek Conduit+ - 2016",2016-09-23,1,3000
+"Santa Cruz Bikes","Trek Remedy 29 Carbon Frameset - 2016",2016-09-30,2,3600
+"Baldwin Bikes","Trek Fuel EX 8 29 - 2016",2016-10-01,2,5800
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-10-11,2,1100
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-10-11,2,540
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2016-10-14,1,600
+"Santa Cruz Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-10-31,2,540
+"Santa Cruz Bikes","Trek Slash 8 27.5 - 2016",2016-12-12,2,8000
+"Baldwin Bikes","Trek Conduit+ - 2016",2016-12-17,2,6000
+"Baldwin Bikes","Pure Cycles Western 3-Speed - Women's - 2015/2016",2016-12-23,1,449
+"Baldwin Bikes","Sun Bicycles Boardwalk (24-inch Wheels) - 2017",2017-01-11,1,403
+"Baldwin Bikes","Trek Precaliber 12 Girls - 2017",2017-02-01,2,380
+"Baldwin Bikes","Electra Townie Original 7D - 2017",2017-02-16,3,1470
+"Rowlett Bikes","Trek X-Caliber 8 - 2017",2017-02-25,1,1000
+"Baldwin Bikes","Sun Bicycles Lil Kitt'n - 2017",2017-02-26,1,110
+"Baldwin Bikes","Trek Domane S 6 - 2017",2017-02-26,1,2700
+"Baldwin Bikes","Trek Emonda S 5 - 2017",2017-03-06,2,4000
+"Rowlett Bikes","Trek Emonda S 4 - 2017",2017-03-18,1,1500
+"Baldwin Bikes","Heller Shagamaw Frame - 2016",2017-05-08,1,1321
+"Baldwin Bikes","Sun Bicycles Spider 3i - 2017",2017-05-15,2,1666
+"Baldwin Bikes","Trek Fuel EX 8 29 - 2016",2017-06-11,1,2900
+"Santa Cruz Bikes","Trek Farley Alloy Frameset - 2017",2017-06-15,1,470
+"Baldwin Bikes","Sun Bicycles Brickell Tandem 7 - 2017",2017-06-17,2,1500
+"Baldwin Bikes","Sun Bicycles Revolutions 24 - 2017",2017-07-23,2,502
+"Santa Cruz Bikes","Haro SR 1.2 - 2017",2017-08-09,2,1740
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2017-08-15,1,550
+"Santa Cruz Bikes","Haro SR 1.2 - 2017",2017-09-03,2,1740
+"Baldwin Bikes","Sun Bicycles Lil Bolt Type-R - 2017",2017-09-13,2,694
+"Rowlett Bikes","Sun Bicycles Atlas X-Type - 2017",2017-09-21,2,834
+"Baldwin Bikes","Surly Big Dummy Frameset - 2017",2017-10-14,1,1000
+"Baldwin Bikes","Sun Bicycles Biscayne Tandem 7 - 2017",2017-11-24,2,1240
+"Baldwin Bikes","Trek Silque SLR 7 Women's - 2017",2017-11-27,2,12000
+"Baldwin Bikes","Sun Bicycles Atlas X-Type - 2017",2017-11-27,2,834
+"Baldwin Bikes","Trek Madone 9.2 - 2017",2017-12-15,2,10000
+"Baldwin Bikes","Trek Boone 7 - 2017",2017-12-27,2,7000
+"Baldwin Bikes","Trek Precaliber 16 Boys - 2017",2018-02-08,1,210
+"Rowlett Bikes","Trek Emonda S 5 - 2017",2018-04-12,2,4000
+"Baldwin Bikes","Pure Cycles Vine 8-Speed - 2016",2018-04-16,1,429
+"Baldwin Bikes","Electra Moto 1 - 2016",2018-04-25,1,530
+"Santa Cruz Bikes","Trek X-Caliber 8 - 2017",2018-07-11,1,1000
+"Baldwin Bikes","Electra Townie 7D (20-inch) - Boys' - 2017",2017-03-15,1,340
+"Rowlett Bikes","Electra Straight 8 3i (20-inch) - Boy's - 2017",2017-05-08,1,490
+"Santa Cruz Bikes","Electra Straight 8 3i (20-inch) - Boy's - 2017",2017-08-21,2,980
+"Baldwin Bikes","Electra Straight 8 3i (20-inch) - Boy's - 2017",2017-08-27,2,980
+"Baldwin Bikes","Trek Precaliber 24 (21-Speed) - Girls - 2017",2017-09-07,2,700
+"Santa Cruz Bikes","Sun Bicycles Cruz 7 - 2017",2018-01-04,1,417
+"Baldwin Bikes","Trek Farley Carbon Frameset - 2018",2018-03-17,2,2000
+"Santa Cruz Bikes","Trek Farley Carbon Frameset - 2018",2018-04-12,1,1000
+"Santa Cruz Bikes","Surly Big Fat Dummy Frameset - 2018",2018-04-27,2,940
+"Santa Cruz Bikes","Trek Super Commuter+ 7 - 2018",2018-02-15,1,3600
+"Baldwin Bikes","Electra Townie Go! 8i Ladies' - 2018",2018-04-19,1,2600
+"Baldwin Bikes","Trek Kickster - 2018",2018-04-06,1,160
+"Baldwin Bikes","Trek Fuel EX 8 29 - 2016",2016-02-20,2,5800
+"Santa Cruz Bikes","Ritchey Timberwolf Frameset - 2016",2016-02-26,1,750
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-03-08,7,3850
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2016-03-23,2,1200
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-04-04,1,270
+"Santa Cruz Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-04-06,2,540
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2016-04-15,2,1200
+"Baldwin Bikes","Pure Cycles Western 3-Speed - Women's - 2015/2016",2016-04-16,1,449
+"Baldwin Bikes","Pure Cycles Western 3-Speed - Women's - 2015/2016",2016-05-27,2,898
+"Rowlett Bikes","Pure Cycles William 3-Speed - 2016",2016-05-27,2,898
+"Baldwin Bikes","Ritchey Timberwolf Frameset - 2016",2016-07-06,2,1500
+"Rowlett Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-08-13,1,270
+"Baldwin Bikes","Surly Straggler - 2016",2016-08-14,4,6196
+"Baldwin Bikes","Trek Fuel EX 8 29 - 2016",2016-08-20,1,2900
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-08-27,1,550
+"Baldwin Bikes","Electra Townie Original 7D - 2015/2016",2016-08-29,1,500
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2016",2016-09-03,2,940
+"Santa Cruz Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-09-19,1,270
+"Baldwin Bikes","Electra Girl's Hawaii 1 (20-inch) - 2015/2016",2016-09-22,1,300
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-10-10,1,550
+"Baldwin Bikes","Surly Wednesday Frameset - 2016",2016-11-24,1,1000
+"Baldwin Bikes","Trek Remedy 29 Carbon Frameset - 2016",2016-12-06,2,3600
+"Santa Cruz Bikes","Heller Shagamaw Frame - 2016",2016-12-26,2,2642
+"Baldwin Bikes","Trek Fuel EX 5 27.5 Plus - 2017",2017-01-21,2,4600
+"Baldwin Bikes","Trek Slash 8 27.5 - 2016",2017-01-28,2,8000
+"Santa Cruz Bikes","Heller Shagamaw Frame - 2016",2017-02-02,2,2642
+"Baldwin Bikes","Sun Bicycles Revolutions 24 - 2017",2017-02-08,2,502
+"Rowlett Bikes","Sun Bicycles Biscayne Tandem 7 - 2017",2017-03-04,1,620
+"Baldwin Bikes","Trek Domane SL Disc Frameset - 2017",2017-03-27,1,3200
+"Baldwin Bikes","Trek Precaliber 16 Boys - 2017",2017-03-29,2,420
+"Baldwin Bikes","Sun Bicycles Revolutions 24 - 2017",2017-04-01,1,251
+"Santa Cruz Bikes","Sun Bicycles Lil Bolt Type-R - 2017",2017-04-13,2,694
+"Baldwin Bikes","Haro Flightline Two 26 Plus - 2017",2017-04-23,2,1100
+"Baldwin Bikes","Trek Boone 7 - 2017",2017-04-27,1,3500
+"Baldwin Bikes","Sun Bicycles Brickell Tandem CB - 2017",2017-04-29,1,762
+"Baldwin Bikes","Trek Domane S 6 - 2017",2017-05-01,2,5400
+"Santa Cruz Bikes","Trek Remedy 9.8 - 2017",2017-05-13,1,5300
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2017-05-23,2,540
+"Santa Cruz Bikes","Electra Townie Original 7D EQ - Women's - 2016",2017-05-28,2,1200
+"Baldwin Bikes","Trek Emonda S 4 - 2017",2017-05-31,1,1500
+"Baldwin Bikes","Electra Girl's Hawaii 1 16" - 2017"",2017-06-07,1,300
+"Baldwin Bikes","Trek Emonda S 4 - 2017",2017-06-18,2,3000
+"Santa Cruz Bikes","Sun Bicycles Cruz 3 - 2017",2017-07-29,2,900
+"Baldwin Bikes","Surly Straggler - 2016",2017-08-19,2,3098
+"Santa Cruz Bikes","Sun Bicycles Revolutions 24 - 2017",2017-08-21,2,502
+"Baldwin Bikes","Trek Madone 9.2 - 2017",2017-09-29,1,5000
+"Santa Cruz Bikes","Trek Conduit+ - 2016",2017-10-01,1,3000
+"Santa Cruz Bikes","Trek X-Caliber 8 - 2017",2017-10-04,2,2000
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2017-10-14,1,270
+"Baldwin Bikes","Trek Emonda S 4 - 2017",2017-10-14,2,3000
+"Baldwin Bikes","Trek Conduit+ - 2016",2017-10-21,2,6000
+"Baldwin Bikes","Electra Amsterdam Original 3i - 2015/2017",2017-11-05,1,660
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2016",2017-11-17,2,940
+"Baldwin Bikes","Pure Cycles Western 3-Speed - Women's - 2015/2016",2017-11-30,2,898
+"Baldwin Bikes","Surly Steamroller - 2017",2017-12-11,1,876
+"Santa Cruz Bikes","Trek Session DH 27.5 Carbon Frameset - 2017",2017-12-30,1,470
+"Rowlett Bikes","Electra Townie Original 21D - 2016",2018-03-20,1,550
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2018-04-06,2,1200
+"Baldwin Bikes","Sun Bicycles Streamway 7 - 2017",2017-01-28,2,1068
+"Baldwin Bikes","Electra Straight 8 3i (20-inch) - Boy's - 2017",2017-01-31,2,980
+"Baldwin Bikes","Sun Bicycles Cruz 7 - Women's - 2017",2017-03-15,2,834
+"Baldwin Bikes","Sun Bicycles Drifter 7 - Women's - 2017",2017-07-27,2,942
+"Baldwin Bikes","Electra Townie 3i EQ (20-inch) - Boys' - 2017",2017-11-19,1,490
+"Rowlett Bikes","Sun Bicycles Drifter 7 - 2017",2017-12-14,2,942
+"Baldwin Bikes","Trek Fuel EX 7 29 - 2018",2018-01-01,2,5000
+"Baldwin Bikes","Trek X-Caliber 7 - 2018",2018-01-02,2,1840
+"Baldwin Bikes","Trek Fuel EX 8 29 XT - 2018",2018-02-08,2,6400
+"Baldwin Bikes","Surly Krampus - 2018",2018-03-04,1,1499
+"Baldwin Bikes","Trek Ticket S Frame - 2018",2018-04-15,1,1470
+"Baldwin Bikes","Electra Townie Go! 8i Ladies' - 2018",2018-01-05,1,2600
+"Baldwin Bikes","Electra Cruiser Lux 7D Ladies' - 2018",2018-02-06,1,480
+"Baldwin Bikes","Trek Domane AL 3 Women's - 2018",2018-03-01,2,1840
+"Baldwin Bikes","Trek Dual Sport+ - 2018",2018-03-15,2,5600
+"Baldwin Bikes","Strider Classic 12 Balance Bike - 2018",2018-03-15,1,90
+"Baldwin Bikes","Electra Townie Commute 8D Ladies' - 2018",2018-04-17,2,1400
+"Baldwin Bikes","Trek Precaliber 24 (7-Speed) - Boys - 2018",2018-01-19,2,640
+"Santa Cruz Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-01-16,1,270
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-02-03,2,540
+"Baldwin Bikes","Pure Cycles Western 3-Speed - Women's - 2015/2016",2016-02-11,1,449
+"Baldwin Bikes","Pure Cycles William 3-Speed - 2016",2016-03-03,2,898
+"Baldwin Bikes","Heller Shagamaw Frame - 2016",2016-03-08,3,3963
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-04-10,3,1650
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-05-25,1,550
+"Santa Cruz Bikes","Electra Moto 1 - 2016",2016-06-05,1,530
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2016",2016-06-10,2,940
+"Baldwin Bikes","Electra Townie Original 7D - 2015/2016",2016-07-01,2,1000
+"Baldwin Bikes","Trek Conduit+ - 2016",2016-07-05,2,6000
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-07-13,2,1100
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-07-20,2,540
+"Baldwin Bikes","Pure Cycles William 3-Speed - 2016",2016-08-14,1,449
+"Santa Cruz Bikes","Electra Townie Original 21D - 2016",2016-09-02,1,550
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-09-04,1,550
+"Baldwin Bikes","Pure Cycles Vine 8-Speed - 2016",2016-09-06,1,429
+"Baldwin Bikes","Pure Cycles Vine 8-Speed - 2016",2016-09-21,2,858
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-09-25,1,550
+"Santa Cruz Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-10-09,2,540
+"Baldwin Bikes","Pure Cycles Vine 8-Speed - 2016",2016-11-06,1,429
+"Rowlett Bikes","Surly Ice Cream Truck Frameset - 2016",2016-11-08,1,470
+"Baldwin Bikes","Heller Shagamaw Frame - 2016",2016-11-19,1,1321
+"Baldwin Bikes","Trek Remedy 29 Carbon Frameset - 2016",2016-11-27,2,3600
+"Santa Cruz Bikes","Haro Downtown 16 - 2017",2017-01-03,2,660
+"Baldwin Bikes","Trek Domane S 6 - 2017",2017-01-25,1,2700
+"Baldwin Bikes","Surly Wednesday Frameset - 2016",2017-02-18,1,1000
+"Baldwin Bikes","Surly Wednesday Frameset - 2017",2017-03-11,2,940
+"Baldwin Bikes","Trek Emonda S 5 - 2017",2017-03-15,3,6000
+"Baldwin Bikes","Surly Karate Monkey 27.5+ Frameset - 2017",2017-03-23,1,2500
+"Rowlett Bikes","Surly Steamroller - 2017",2017-03-28,2,1752
+"Baldwin Bikes","Haro Downtown 16 - 2017",2017-04-11,2,660
+"Baldwin Bikes","Sun Bicycles Cruz 7 - 2017",2017-05-20,2,834
+"Santa Cruz Bikes","Trek Fuel EX 8 29 - 2016",2017-05-30,2,5800
+"Rowlett Bikes","Electra Girl's Hawaii 1 16" - 2017"",2017-06-10,2,600
+"Baldwin Bikes","Electra Townie Original 7D - 2015/2016",2017-06-13,1,500
+"Baldwin Bikes","Trek Boone 7 - 2017",2017-06-14,1,3500
+"Baldwin Bikes","Surly Wednesday - 2017",2017-06-17,2,3266
+"Baldwin Bikes","Sun Bicycles Boardwalk (24-inch Wheels) - 2017",2017-06-17,2,806
+"Baldwin Bikes","Sun Bicycles Lil Bolt Type-R - 2017",2017-06-19,2,694
+"Baldwin Bikes","Trek Domane S 6 - 2017",2017-08-06,2,5400
+"Rowlett Bikes","Surly Wednesday Frameset - 2017",2017-08-16,2,940
+"Rowlett Bikes","Surly Ice Cream Truck Frameset - 2016",2017-09-13,1,470
+"Santa Cruz Bikes","Trek Domane S 5 Disc - 2017",2017-11-26,2,5200
+"Baldwin Bikes","Trek Conduit+ - 2016",2017-12-20,2,6000
+"Baldwin Bikes","Electra Amsterdam Fashion 7i Ladies' - 2017",2018-02-06,2,2200
+"Baldwin Bikes","Trek Domane SL Disc Frameset - 2017",2018-03-07,2,6400
+"Baldwin Bikes","Electra Townie Original 7D - 2017",2017-04-05,1,490
+"Baldwin Bikes","Sun Bicycles Cruz 7 - 2017",2017-04-05,2,834
+"Baldwin Bikes","Electra Straight 8 3i (20-inch) - Boy's - 2017",2017-06-13,2,980
+"Baldwin Bikes","Electra Sugar Skulls 1 (20-inch) - Girl's - 2017",2017-07-15,1,300
+"Baldwin Bikes","Sun Bicycles Cruz 3 - Women's - 2017",2017-07-27,1,450
+"Baldwin Bikes","Electra Townie Original 7D - 2017",2017-08-19,1,490
+"Baldwin Bikes","Sun Bicycles Drifter 7 - 2017",2017-10-08,2,942
+"Santa Cruz Bikes","Trek Domane ALR 4 Disc Women's - 2018",2018-04-03,2,3100
+"Baldwin Bikes","Trek Domane ALR 4 Disc - 2018",2018-04-09,2,3100
+"Baldwin Bikes","Electra Townie 7D (20-inch) - Boys' - 2017",2018-04-20,2,680
+"Baldwin Bikes","Trek Fuel EX 8 29 - 2018",2018-04-20,2,6400
+"Baldwin Bikes","Sun Bicycles Drifter 7 - Women's - 2017",2018-04-23,2,942
+"Santa Cruz Bikes","Trek Kids' Neko - 2018",2018-04-24,2,940
+"Baldwin Bikes","Electra Townie Original 21D EQ Ladies' - 2018",2018-03-04,2,1360
+"Baldwin Bikes","Electra Townie Commute Go! Ladies' - 2018",2018-03-28,2,6000
+"Santa Cruz Bikes","Electra Townie Balloon 3i EQ - 2017/2018",2018-04-03,1,750
+"Baldwin Bikes","Trek Domane SL 6 Disc - 2018",2018-04-16,2,7000
+"Baldwin Bikes","Electra Sweet Ride 3i (20-inch) - Girls' - 2018",2018-04-05,2,740
+"Baldwin Bikes","Trek Precaliber 16 Girl's - 2018",2018-06-17,1,210
+"Baldwin Bikes","Pure Cycles Vine 8-Speed - 2016",2016-01-08,2,858
+"Santa Cruz Bikes","Electra Moto 1 - 2016",2016-01-16,2,1060
+"Baldwin Bikes","Trek Slash 8 27.5 - 2016",2016-01-19,2,8000
+"Baldwin Bikes","Surly Straggler - 2016",2016-01-22,2,3098
+"Santa Cruz Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-02-06,3,810
+"Baldwin Bikes","Pure Cycles William 3-Speed - 2016",2016-02-28,2,898
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-03-08,2,540
+"Baldwin Bikes","Pure Cycles Western 3-Speed - Women's - 2015/2016",2016-03-21,2,898
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-04-06,1,550
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2016",2016-05-01,2,940
+"Baldwin Bikes","Ritchey Timberwolf Frameset - 2016",2016-05-07,2,1500
+"Santa Cruz Bikes","Electra Townie Original 7D EQ - 2016",2016-05-20,2,1200
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-06-19,2,540
+"Rowlett Bikes","Trek Conduit+ - 2016",2016-07-04,1,3000
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-07-25,1,270
+"Baldwin Bikes","Heller Shagamaw Frame - 2016",2016-08-30,1,1321
+"Santa Cruz Bikes","Ritchey Timberwolf Frameset - 2016",2016-09-02,1,750
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2016",2016-09-28,3,1410
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2016-10-06,2,1200
+"Baldwin Bikes","Trek Remedy 29 Carbon Frameset - 2016",2016-10-19,1,1800
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-10-21,2,540
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-11-23,4,2200
+"Baldwin Bikes","Electra Girl's Hawaii 1 (20-inch) - 2015/2016",2016-12-04,3,900
+"Santa Cruz Bikes","Electra Townie Original 7D EQ - 2016",2016-12-09,2,1200
+"Baldwin Bikes","Trek Conduit+ - 2016",2016-12-23,2,6000
+"Santa Cruz Bikes","Surly Ice Cream Truck Frameset - 2016",2016-12-26,2,940
+"Rowlett Bikes","Pure Cycles William 3-Speed - 2016",2017-01-22,2,898
+"Baldwin Bikes","Trek Powerfly 8 FS Plus - 2017",2017-02-15,2,10000
+"Baldwin Bikes","Trek Domane SLR 6 Disc - 2017",2017-03-22,1,5500
+"Baldwin Bikes","Haro Shift R3 - 2017",2017-03-23,2,2940
+"Baldwin Bikes","Electra Amsterdam Original 3i - 2015/2017",2017-04-05,2,1320
+"Baldwin Bikes","Sun Bicycles Atlas X-Type - 2017",2017-04-17,1,417
+"Baldwin Bikes","Trek Precaliber 12 Boys - 2017",2017-04-22,1,190
+"Baldwin Bikes","Trek Emonda S 4 - 2017",2017-06-09,1,1500
+"Baldwin Bikes","Trek Session DH 27.5 Carbon Frameset - 2017",2017-06-14,2,940
+"Baldwin Bikes","Sun Bicycles Cruz 3 - 2017",2017-06-22,1,450
+"Rowlett Bikes","Trek Domane SL 6 - 2017",2017-06-26,2,7000
+"Baldwin Bikes","Trek Emonda S 5 - 2017",2017-07-23,2,4000
+"Baldwin Bikes","Pure Cycles William 3-Speed - 2016",2017-08-15,1,449
+"Baldwin Bikes","Trek Powerfly 8 FS Plus - 2017",2017-08-20,1,5000
+"Santa Cruz Bikes","Surly Ice Cream Truck Frameset - 2017",2017-08-21,1,1000
+"Rowlett Bikes","Electra Moto 1 - 2016",2017-08-26,2,1060
+"Baldwin Bikes","Sun Bicycles Brickell Tandem CB - 2017",2017-09-01,1,762
+"Rowlett Bikes","Trek Boone 7 - 2017",2017-10-12,2,7000
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2017-11-30,2,1100
+"Rowlett Bikes","Trek Boone Race Shop Limited - 2017",2017-12-01,1,3500
+"Santa Cruz Bikes","Electra Townie Original 21D - 2016",2018-01-27,2,1100
+"Baldwin Bikes","Trek Emonda S 4 - 2017",2018-02-01,1,1500
+"Baldwin Bikes","Surly Troll Frameset - 2017",2018-02-26,2,1666
+"Rowlett Bikes","Trek Domane S 5 Disc - 2017",2018-04-28,1,2600
+"Santa Cruz Bikes","Electra Townie 7D (20-inch) - Boys' - 2017",2017-07-11,1,340
+"Baldwin Bikes","Haro Shredder 20 - 2017",2017-09-10,2,420
+"Baldwin Bikes","Sun Bicycles Cruz 7 - 2017",2017-11-10,2,834
+"Santa Cruz Bikes","Trek X-Caliber 7 - 2018",2018-02-02,2,1840
+"Baldwin Bikes","Trek Domane SL 6 - 2018",2018-02-11,2,6400
+"Baldwin Bikes","Trek Remedy 7 27.5 - 2018",2018-02-15,1,3000
+"Baldwin Bikes","Heller Shagamaw GX1 - 2018",2018-03-15,1,2599
+"Baldwin Bikes","Trek Fuel EX 8 29 XT - 2018",2018-03-31,2,6400
+"Rowlett Bikes","Electra Amsterdam Fashion 3i Ladies' - 2017/2018",2018-01-01,1,900
+"Santa Cruz Bikes","Electra Cruiser Lux 1 - 2016/2018",2018-02-05,2,860
+"Baldwin Bikes","Electra White Water 3i - 2018",2018-02-15,1,750
+"Baldwin Bikes","Electra Moto 3i - 2018",2018-03-17,2,1280
+"Santa Cruz Bikes","Electra Straight 8 3i - 2018",2018-04-07,1,910
+"Rowlett Bikes","Electra Straight 8 3i - 2018",2018-04-09,1,910
+"Baldwin Bikes","Electra Townie Original 21D - 2018",2018-04-22,1,560
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2016-01-01,2,1200
+"Baldwin Bikes","Trek Conduit+ - 2016",2016-01-04,2,6000
+"Baldwin Bikes","Trek Remedy 29 Carbon Frameset - 2016",2016-01-20,1,1800
+"Baldwin Bikes","Trek Slash 8 27.5 - 2016",2016-01-28,1,4000
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-02-09,1,550
+"Rowlett Bikes","Surly Wednesday Frameset - 2016",2016-02-11,2,2000
+"Santa Cruz Bikes","Surly Ice Cream Truck Frameset - 2016",2016-02-17,1,470
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2016-02-17,1,600
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2016-03-10,2,1200
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-03-23,1,270
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2016",2016-03-26,1,470
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-04-04,2,1100
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-04-13,2,540
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2016",2016-04-21,1,470
+"Rowlett Bikes","Electra Townie Original 7D - 2015/2016",2016-05-27,2,1000
+"Baldwin Bikes","Trek Slash 8 27.5 - 2016",2016-06-17,2,8000
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2016-06-25,4,2400
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-07-20,2,1100
+"Baldwin Bikes","Trek Conduit+ - 2016",2016-07-31,1,3000
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-08-17,2,1100
+"Baldwin Bikes","Heller Shagamaw Frame - 2016",2016-09-03,1,1321
+"Baldwin Bikes","Electra Girl's Hawaii 1 (20-inch) - 2015/2016",2016-09-08,2,600
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2016",2016-09-11,1,470
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-10-06,3,810
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-10-07,2,540
+"Santa Cruz Bikes","Electra Moto 1 - 2016",2016-10-11,1,530
+"Santa Cruz Bikes","Pure Cycles Western 3-Speed - Women's - 2015/2016",2016-12-06,1,449
+"Baldwin Bikes","Pure Cycles William 3-Speed - 2016",2016-12-10,1,449
+"Baldwin Bikes","Electra Townie Original 7D - 2015/2016",2017-01-09,2,1000
+"Rowlett Bikes","Haro Downtown 16 - 2017",2017-03-15,1,330
+"Santa Cruz Bikes","Trek X-Caliber 8 - 2017",2017-03-27,2,2000
+"Baldwin Bikes","Trek Emonda S 4 - 2017",2017-04-04,4,6000
+"Baldwin Bikes","Haro SR 1.2 - 2017",2017-04-25,2,1740
+"Baldwin Bikes","Trek Silque SLR 7 Women's - 2017",2017-05-15,3,18000
+"Baldwin Bikes","Electra Cruiser Lux Fat Tire 1 Ladies - 2017",2017-05-31,2,1200
+"Baldwin Bikes","Trek Madone 9.2 - 2017",2017-06-11,2,10000
+"Baldwin Bikes","Electra Moto 1 - 2016",2017-06-18,1,530
+"Baldwin Bikes","Sun Bicycles Cruz 3 - 2017",2017-08-10,1,450
+"Baldwin Bikes","Surly Straggler 650b - 2016",2017-08-15,2,3362
+"Baldwin Bikes","Electra Glam Punk 3i Ladies' - 2017",2017-08-20,2,1600
+"Baldwin Bikes","Trek Domane S 6 - 2017",2017-09-08,2,5400
+"Baldwin Bikes","Haro Flightline Two 26 Plus - 2017",2017-10-01,1,550
+"Baldwin Bikes","Surly Big Dummy Frameset - 2017",2017-10-17,1,1000
+"Baldwin Bikes","Trek Remedy 9.8 - 2017",2017-10-31,2,10600
+"Baldwin Bikes","Trek Remedy 29 Carbon Frameset - 2016",2017-11-04,1,1800
+"Baldwin Bikes","Electra Cruiser Lux 1 - 2017",2017-12-10,2,880
+"Santa Cruz Bikes","Surly Steamroller - 2017",2017-12-15,2,1752
+"Baldwin Bikes","Electra Amsterdam Original 3i Ladies' - 2017",2017-12-27,2,1320
+"Santa Cruz Bikes","Sun Bicycles ElectroLite - 2017",2018-04-04,2,3120
+"Santa Cruz Bikes","Electra Moto 1 - 2016",2018-04-23,2,1060
+"Rowlett Bikes","Surly Straggler - 2016",2018-04-29,1,1549
+"Baldwin Bikes","Haro Flightline One ST - 2017",2018-04-30,1,380
+"Santa Cruz Bikes","Sun Bicycles Cruz 3 - 2017",2017-01-20,1,450
+"Baldwin Bikes","Sun Bicycles Drifter 7 - Women's - 2017",2017-02-15,2,942
+"Baldwin Bikes","Electra Townie Original 7D - 2017",2017-05-23,2,980
+"Baldwin Bikes","Sun Bicycles Cruz 7 - Women's - 2017",2017-08-17,1,417
+"Baldwin Bikes","Sun Bicycles Streamway - 2017",2017-09-28,2,964
+"Santa Cruz Bikes","Trek Domane SL 8 Disc - 2018",2018-01-15,1,5500
+"Baldwin Bikes","Trek Procaliber Frameset - 2018",2018-01-16,1,1500
+"Baldwin Bikes","Trek 820 - 2018",2018-02-18,1,380
+"Baldwin Bikes","Sun Bicycles Cruz 7 - 2017",2018-04-27,1,417
+"Santa Cruz Bikes","Trek Conduit+ - 2018",2018-01-09,1,2800
+"Baldwin Bikes","Electra Townie Original 21D Ladies' - 2018",2018-01-13,1,560
+"Baldwin Bikes","Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018",2018-02-11,1,320
+"Baldwin Bikes","Electra Koa 3i Ladies' - 2018",2018-03-04,2,1800
+"Baldwin Bikes","Electra Loft Go! 8i - 2018",2018-03-31,1,2800
+"Baldwin Bikes","Trek Domane SL 6 Disc - 2018",2018-04-08,1,3500
+"Baldwin Bikes","Electra Townie Original 21D EQ Ladies' - 2018",2018-04-12,1,680
+"Baldwin Bikes","Electra Sweet Ride 3i (20-inch) - Girls' - 2018",2018-03-03,2,740
+"Baldwin Bikes","Electra Cyclosaurus 1 (16-inch) - Boy's - 2018",2018-04-23,2,560
+"Baldwin Bikes","Pure Cycles Vine 8-Speed - 2016",2016-01-03,1,429
+"Santa Cruz Bikes","Surly Straggler 650b - 2016",2016-01-06,1,1681
+"Baldwin Bikes","Trek Slash 8 27.5 - 2016",2016-01-25,2,8000
+"Baldwin Bikes","Surly Straggler - 2016",2016-01-25,2,3098
+"Baldwin Bikes","Pure Cycles Vine 8-Speed - 2016",2016-01-29,1,429
+"Santa Cruz Bikes","Electra Townie Original 7D - 2015/2016",2016-02-17,2,1000
+"Baldwin Bikes","Trek Slash 8 27.5 - 2016",2016-03-01,2,8000
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-03-09,1,270
+"Baldwin Bikes","Electra Townie Original 7D - 2015/2016",2016-03-21,1,500
+"Santa Cruz Bikes","Pure Cycles William 3-Speed - 2016",2016-03-26,1,449
+"Baldwin Bikes","Trek Remedy 29 Carbon Frameset - 2016",2016-05-01,2,3600
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2016",2016-05-12,2,940
+"Baldwin Bikes","Trek Remedy 29 Carbon Frameset - 2016",2016-05-19,3,5400
+"Santa Cruz Bikes","Electra Townie Original 7D - 2015/2016",2016-05-30,1,500
+"Santa Cruz Bikes","Surly Straggler - 2016",2016-06-05,2,3098
+"Baldwin Bikes","Pure Cycles Western 3-Speed - Women's - 2015/2016",2016-06-06,1,449
+"Baldwin Bikes","Electra Townie Original 7D - 2015/2016",2016-06-17,3,1500
+"Santa Cruz Bikes","Trek Conduit+ - 2016",2016-06-23,1,3000
+"Baldwin Bikes","Surly Straggler - 2016",2016-06-25,2,3098
+"Rowlett Bikes","Electra Girl's Hawaii 1 (20-inch) - 2015/2016",2016-07-04,1,300
+"Baldwin Bikes","Pure Cycles Vine 8-Speed - 2016",2016-07-20,1,429
+"Santa Cruz Bikes","Surly Ice Cream Truck Frameset - 2016",2016-07-28,2,940
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2016-07-31,3,1800
+"Santa Cruz Bikes","Trek Slash 8 27.5 - 2016",2016-08-31,2,8000
+"Baldwin Bikes","Electra Townie Original 7D EQ - Women's - 2016",2016-09-04,1,600
+"Baldwin Bikes","Heller Shagamaw Frame - 2016",2016-09-09,2,2642
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2016",2016-09-12,1,470
+"Baldwin Bikes","Trek Fuel EX 8 29 - 2016",2016-09-26,1,2900
+"Baldwin Bikes","Electra Moto 1 - 2016",2016-09-28,1,530
+"Rowlett Bikes","Electra Townie Original 7D EQ - 2016",2016-10-04,2,1200
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2016",2016-10-06,2,940
+"Baldwin Bikes","Heller Shagamaw Frame - 2016",2016-10-23,1,1321
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-10-24,1,550
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2016-10-29,2,540
+"Rowlett Bikes","Electra Townie Original 21D - 2016",2016-11-08,1,550
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2016-11-12,2,1200
+"Baldwin Bikes","Electra Townie Original 7D - 2015/2016",2016-12-06,2,1000
+"Baldwin Bikes","Electra Townie Original 7D - 2015/2016",2016-12-26,1,500
+"Santa Cruz Bikes","Surly Ogre Frameset - 2017",2017-01-08,1,750
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2017",2017-01-18,1,1000
+"Baldwin Bikes","Trek Emonda S 4 - 2017",2017-02-11,1,1500
+"Rowlett Bikes","Trek Boy's Kickster - 2015/2017",2017-03-03,2,300
+"Baldwin Bikes","Surly Karate Monkey 27.5+ Frameset - 2017",2017-03-13,1,2500
+"Baldwin Bikes","Sun Bicycles Brickell Tandem CB - 2017",2017-03-18,1,762
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2017-03-31,1,600
+"Baldwin Bikes","Surly Ice Cream Truck Frameset - 2016",2017-04-05,1,470
+"Santa Cruz Bikes","Electra Cruiser Lux 1 - 2017",2017-08-21,1,440
+"Baldwin Bikes","Electra Moto 1 - 2016",2017-10-05,1,530
+"Baldwin Bikes","Sun Bicycles Revolutions 24 - 2017",2017-10-15,2,502
+"Baldwin Bikes","Trek Boy's Kickster - 2015/2017",2017-10-17,2,300
+"Baldwin Bikes","Sun Bicycles Lil Bolt Type-R - 2017",2017-10-26,2,694
+"Santa Cruz Bikes","Surly Ice Cream Truck Frameset - 2016",2017-11-06,2,940
+"Santa Cruz Bikes","Trek Precaliber 12 Boys - 2017",2017-11-09,2,380
+"Baldwin Bikes","Trek Powerfly 8 FS Plus - 2017",2017-11-17,1,5000
+"Rowlett Bikes","Sun Bicycles Biscayne Tandem 7 - 2017",2017-12-01,2,1240
+"Baldwin Bikes","Trek Farley Alloy Frameset - 2017",2018-02-08,1,470
+"Baldwin Bikes","Electra Amsterdam Original 3i - 2015/2017",2018-03-08,2,1320
+"Baldwin Bikes","Trek X-Caliber 8 - 2017",2018-03-14,1,1000
+"Baldwin Bikes","Sun Bicycles ElectroLite - 2017",2018-04-02,2,3120
+"Baldwin Bikes","Haro Flightline One ST - 2017",2018-04-08,1,380
+"Baldwin Bikes","Electra Townie Original 7D - 2017",2017-02-19,2,980
+"Baldwin Bikes","Haro Shredder Pro 20 - 2017",2017-08-04,2,500
+"Rowlett Bikes","Sun Bicycles Streamway - 2017",2017-08-07,2,964
+"Baldwin Bikes","Haro Shredder Pro 20 - 2017",2017-10-05,2,500
+"Baldwin Bikes","Electra Townie 7D (20-inch) - Boys' - 2017",2017-12-04,1,340
+"Santa Cruz Bikes","Trek Precaliber 16 Girls - 2017",2017-12-26,1,210
+"Baldwin Bikes","Trek Fuel EX 8 29 XT - 2018",2018-04-16,2,6400
+"Baldwin Bikes","Trek Farley Carbon Frameset - 2018",2018-04-19,1,1000
+"Rowlett Bikes","Electra Relic 3i - 2018",2018-03-27,2,1700
+"Baldwin Bikes","Trek Kickster - 2018",2018-02-14,2,320
+"Baldwin Bikes","Surly Wednesday Frameset - 2016",2016-01-04,3,3000
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-01-09,2,1100
+"Baldwin Bikes","Electra Girl's Hawaii 1 (20-inch) - 2015/2016",2016-02-17,2,600
+"Santa Cruz Bikes","Surly Straggler - 2016",2016-02-26,2,3098
+"Baldwin Bikes","Electra Townie Original 7D EQ - 2016",2016-03-03,1,600
+"Baldwin Bikes","Heller Shagamaw Frame - 2016",2016-03-19,2,2642
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-04-17,2,1100
+"Baldwin Bikes","Trek Remedy 29 Carbon Frameset - 2016",2016-04-27,2,3600
+"Baldwin Bikes","Electra Girl's Hawaii 1 (20-inch) - 2015/2016",2016-05-01,2,600
+"Baldwin Bikes","Ritchey Timberwolf Frameset - 2016",2016-05-12,2,1500
+"Santa Cruz Bikes","Trek Remedy 29 Carbon Frameset - 2016",2016-05-20,2,3600
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-05-21,1,270
+"Baldwin Bikes","Trek Slash 8 27.5 - 2016",2016-06-01,2,8000
+"Rowlett Bikes","Trek Conduit+ - 2016",2016-06-08,2,6000
+"Santa Cruz Bikes","Surly Straggler 650b - 2016",2016-06-20,2,3362
+"Rowlett Bikes","Trek Slash 8 27.5 - 2016",2016-06-22,2,8000
+"Baldwin Bikes","Electra Townie Original 21D - 2016",2016-06-23,2,1100
+"Baldwin Bikes","Surly Straggler 650b - 2016",2016-07-29,1,1681
+"Santa Cruz Bikes","Surly Straggler - 2016",2016-08-15,2,3098
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-09-21,2,540
+"Baldwin Bikes","Ritchey Timberwolf Frameset - 2016",2016-11-02,2,1500
+"Rowlett Bikes","Electra Townie Original 21D - 2016",2016-11-12,2,1100
+"Santa Cruz Bikes","Surly Straggler - 2016",2016-11-23,1,1549
+"Baldwin Bikes","Pure Cycles Western 3-Speed - Women's - 2015/2016",2016-11-27,2,898
+"Baldwin Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2016-12-12,2,540
+"Santa Cruz Bikes","Pure Cycles Western 3-Speed - Women's - 2015/2016",2016-12-18,1,449
+"Santa Cruz Bikes","Trek Fuel EX 9.8 27.5 Plus - 2017",2017-01-14,1,5300
+"Baldwin Bikes","Trek Stache 5 - 2017",2017-01-17,2,3000
+"Baldwin Bikes","Trek Domane SL Disc Frameset - 2017",2017-01-28,2,6400
+"Baldwin Bikes","Surly Wednesday - 2017",2017-03-05,2,3266
+"Rowlett Bikes","Electra Girl's Hawaii 1 (16-inch) - 2015/2016",2017-03-06,2,540
+"Santa Cruz Bikes","Electra Amsterdam Fashion 7i Ladies' - 2017",2017-03-09,2,2200
+"Rowlett Bikes","Trek Silque SLR 8 Women's - 2017",2017-03-18,2,13000
+"Baldwin Bikes","Trek Stache 5 - 2017",2017-03-22,1,1500
+"Baldwin Bikes","Electra Cruiser 1 (24-Inch) - 2016",2017-04-28,1,270
+"Santa Cruz Bikes","Haro SR 1.1 - 2017",2017-06-15,1,540
+"Baldwin Bikes","Surly Big Dummy Frameset - 2017",2017-06-26,1,1000
+"Baldwin Bikes","Heller Shagamaw Frame - 2016",2017-06-30,2,2642
+"Baldwin Bikes","Surly Straggler 650b - 2016",2017-08-25,1,1681
